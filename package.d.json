@@ -1,0 +1,12 @@
+{
+  "name": "jyoou",
+  "version": "1.0.1",
+  "description": "",
+  "main": "JYoou.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Jyoou", "jyoou", "JYoou", "JYOOU"],
+  "author": "",
+  "license": "GPLv3.0"
+}
